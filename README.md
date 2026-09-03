@@ -16,7 +16,7 @@
 </p> 
 
 <p align="center">
-  <a href="[ https://github.com/mahatabmunim ](https://github.com/mahatabmunim)"><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mahatabmunim"><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mahatabmunim/"><img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/mahatabmunim"><img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@mahatabmunim"><img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="120"/></a>
