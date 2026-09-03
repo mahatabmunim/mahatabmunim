@@ -11,16 +11,15 @@
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nishatrhythm&style=flat&color=4A90D9&label=Profile+Views" />
-</p>
+</p> -->
 
 <p align="center">
-  <a href="https://nishat.vercel.app"><img src="https://i.postimg.cc/JhtpTpBK/portfolio.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/nishatrhythm"><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nishatrhythm"><img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/nishatrhythm"><img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/wikitricks"><img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="120"/></a>
+  <a href=" https://github.com/mahatabmunim "><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mahatabmunim/"><img src="https://i.postimg.cc/tYq2Jhd6/linkedin.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/mahatabmunim"><img src="https://i.postimg.cc/HVYBnQ0X/x.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@mahatabmunim"><img src="https://i.postimg.cc/Czhm5jCb/youtube.jpg" width="120"/></a>
 </p>
 
 ---
