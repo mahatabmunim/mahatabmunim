@@ -53,11 +53,7 @@ _ "Code. Learn. Build. Improve." _
 | :---: | :---: |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahatabmunim&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatabmunim&layout=compact&theme=default) |
 
-## 📊 GitHub Stats  
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahatabmunim&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatabmunim&layout=compact&theme=default) |
 
 
 
