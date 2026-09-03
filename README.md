@@ -28,11 +28,11 @@
 
 Hi, I'm Mahatab Munim, a CSE student and aspiring Full-Stack Web Developer passionate about building modern, scalable, and user-focused web applications.
 
-💻 Currently learning JavaScript, TypeScript, React, Next.js & MongoDB
-🧩 Interested in Problem Solving, Web Development & Software Engineering
-🚀 Focused on building real-world projects and strengthening my development skills
-📚 Continuously learning new technologies and improving my coding practices
-🎯 Goal: Become a professional Full-Stack Developer and contribute to impactful software projects
+- 💻 Currently learning JavaScript, TypeScript, React, Next.js & MongoDB
+- 🧩 Interested in Problem Solving, Web Development & Software Engineering
+- 🚀 Focused on building real-world projects and strengthening my development skills
+- 📚 Continuously learning new technologies and improving my coding practices
+- 🎯 Goal: Become a professional Full-Stack Developer and contribute to impactful software projects
 
 *** "Code. Learn. Build. Improve." ***
 
