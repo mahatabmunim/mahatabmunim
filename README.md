@@ -34,7 +34,8 @@ Hi, I'm Mahatab Munim, a CSE student and aspiring Full-Stack Web Developer passi
 📚 Continuously learning new technologies and improving my coding practices
 🎯 Goal: Become a professional Full-Stack Developer and contribute to impactful software projects
 
-"Code. Learn. Build. Improve."
+*Italic Text
+"Code. Learn. Build. Improve." *
 
 ---
 
