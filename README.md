@@ -26,9 +26,15 @@
 
 <h2 align="center">About</h2>
 
-Results-driven software engineer and entrepreneur with experience in web, mobile, and AI/ML development. Co-founded **[Go Bangladesh](https://thegobd.com)**, a government-funded e-ticketing startup under the ICT Division, where I led frontend development, UX design, and platform strategy. Currently pursuing my **Master's in CSE** at Jagannath University, Dhaka, with research focused on **contactless ticketing using Ultra-Wideband (UWB) technology** for public transport.
+Hi, I'm Mahatab Munim, a CSE student and aspiring Full-Stack Web Developer passionate about building modern, scalable, and user-focused web applications.
 
-I build scalable applications, integrate APIs, and deliver innovative solutions: real-time seat tracking systems serving 2,000+ daily users, CNN-based traffic sign classifiers, and full-featured web clients with encrypted authentication.
+💻 Currently learning JavaScript, TypeScript, React, Next.js & MongoDB
+🧩 Interested in Problem Solving, Web Development & Software Engineering
+🚀 Focused on building real-world projects and strengthening my development skills
+📚 Continuously learning new technologies and improving my coding practices
+🎯 Goal: Become a professional Full-Stack Developer and contribute to impactful software projects
+
+"Code. Learn. Build. Improve."
 
 ---
 
