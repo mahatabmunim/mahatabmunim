@@ -11,9 +11,9 @@
 
 <br/>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahatabmunim&style=flat&color=4A90D9&label=Profile+Views" />
-</p> -->
+</p> 
 
 <p align="center">
   <a href=" https://github.com/mahatabmunim "><img src="https://i.postimg.cc/D8vB0qQs/github.jpg" width="120"/></a>&nbsp;&nbsp;&nbsp;
