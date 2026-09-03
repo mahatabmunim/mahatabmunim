@@ -59,12 +59,15 @@ Hi, I'm Mahatab Munim, a CSE student and aspiring Full-Stack Web Developer passi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mahatabmunim&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mahatabmunim&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahatabmunim&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 GitHub Stats  
+---
+[![](https://komarev.com/ghpvc/?username=mahatabmunim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahatabmunim&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahatabmunim&layout=compact&theme=default) |
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
